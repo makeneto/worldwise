@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Luanda",
+      "country": "Angola",
+      "emoji": "🇦🇴",
+      "date": "2025-03-21T17:41:28.255Z",
+      "notes": "",
+      "position": {
+        "lat": "-8.828081150261902",
+        "lng": "13.24676513671875"
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Puente-Genil",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-03-21T17:46:10.551Z",
+      "notes": "",
+      "position": {
+        "lat": "37.43997405227057",
+        "lng": "-4.7900390625"
+      },
+      "id": 3
+    },
+    {
+      "cityName": "Aldearrodrigo",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-03-21T17:46:14.776Z",
+      "notes": "",
+      "position": {
+        "lat": "41.1290213474951",
+        "lng": "-5.800781250000001"
+      },
+      "id": 4
+    },
+    {
+      "cityName": "Ait Tamlil",
+      "country": "Morocco",
+      "emoji": "🇲🇦",
+      "date": "2025-03-21T18:04:19.683Z",
+      "notes": "",
+      "position": {
+        "lat": "31.379557580512078",
+        "lng": "-6.877441406250001"
+      },
+      "id": 5
+    },
+    {
+      "cityName": "Balearic Islands",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-03-21T18:12:34.783Z",
+      "notes": "",
+      "position": {
+        "lat": "39.76084043513513",
+        "lng": "3.3178710937500004"
+      },
+      "id": 6
+    },
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2025-03-21T18:12:44.147Z",
+      "notes": "",
+      "position": {
+        "lat": "38.708247599618545",
+        "lng": "-9.133071899414064"
+      },
+      "id": 7
+    }
+  ]
+}
